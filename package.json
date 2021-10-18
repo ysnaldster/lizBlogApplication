@@ -1,8 +1,8 @@
 {
-  "name": "mi-portafolio",
+  "name": "blogliz",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://YsnaldoXVen.github.io/mi-portafolio",
+  "homepage": "",
   "dependencies": {
     "@chakra-ui/react": "^1.6.4",
     "@emotion/react": "^11",
